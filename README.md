@@ -23,4 +23,4 @@ A website for a cleaning company that provides cleaning and sterilization servic
 ## ✨ Live Demo
 
 Explore the interactive features and dynamic elements of cleaning company by visiting the hosted page on Github:
-[cleaning company Page](https://mhmdtahasherif.github.io/cleaning-company/)
+[cleaning company Page](https://mhmdtahasherif.github.io/House-cleaning/)
