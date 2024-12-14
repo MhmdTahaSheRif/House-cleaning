@@ -1,6 +1,6 @@
 # House Cleaning
 
-<img align="center" width="80%" src="https://github.com/Mohamed20a/My-Portfolio/blob/main/assets/img/portfolio/cleaning.png">
+<img align="center" width="80%" src="https://github.com/MhmdTahaSheRif/HOUSE-CLEANING/blob/main/img/cleaning.png">
 
 ## What is House Cleaning?
 A website for a cleaning company that provides cleaning and sterilization services.
@@ -23,4 +23,4 @@ A website for a cleaning company that provides cleaning and sterilization servic
 ## ✨ Live Demo
 
 Explore the interactive features and dynamic elements of cleaning company by visiting the hosted page on Github:
-[cleaning company Page](https://mhmdtahasherif.github.io/cleaning company/)
+[cleaning company Page](https://mhmdtahasherif.github.io/cleaning-company/)
